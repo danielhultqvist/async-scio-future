@@ -1,0 +1,1 @@
+# Example of using async DoFn for Scio
